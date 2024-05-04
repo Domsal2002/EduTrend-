@@ -21,13 +21,3 @@ This project applies machine learning techniques to analyze and predict academic
 
 - Python: For all data preprocessing and analysis.
 - Libraries: Pandas, NumPy, scikit-learn, and Matplotlib for data manipulation, machine learning, and visualization.
-
-## Repository Structure
-
-```plaintext
-/
-├── data/                  # Folder containing raw and processed data sets
-├── notebooks/             # Jupyter notebooks with the analysis
-├── src/                   # Source code for data preprocessing and modeling
-├── results/               # Generated outputs, tables, and figures
-└── README.md
